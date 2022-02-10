@@ -1,4 +1,8 @@
-# Build your first Polymer element
+## Screenshots:
+![image](https://user-images.githubusercontent.com/71290351/153415232-5f977c55-0ef3-4848-a20c-ae306a99c1f5.png)
+![image](https://user-images.githubusercontent.com/71290351/153415271-387a08a7-29af-4bd8-ac2c-069396e17c4f.png)
+![image](https://user-images.githubusercontent.com/71290351/153415297-8e2ba1f6-6378-428e-887f-7b60cfa2c9d3.png)
+
 
 ## Running the tutorial code
 
