@@ -18,7 +18,7 @@
 
 4.  Change directory to the top-level project folder and install project dependencies:
 
-        cd polymer-3-first-element
+        cd polymer-web-components
         npm install
         
 5.  To preview your element, run the Polymer development server from the top-level project folder:
