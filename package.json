@@ -1,0 +1,28 @@
+{
+  "name": "polymer-3-first-element",
+  "version": "3.0.0-pre.12",
+  "flat": true,
+  "description": "",
+  "main": "index.html",
+  "repository": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@polymer/font-roboto": "^3.0.2",
+    "@polymer/iron-ajax": "^3.0.1",
+    "@polymer/iron-icon": "^3.0.0-pre.12",
+    "@polymer/iron-icons": "^3.0.0-pre.12",
+    "@polymer/paper-button": "^3.0.1",
+    "@polymer/paper-header-panel": "^3.0.1",
+    "@polymer/paper-input": "^3.2.1",
+    "@polymer/paper-radio-button": "^3.0.1",
+    "@polymer/paper-spinner": "^3.0.2",
+    "@polymer/paper-styles": "^3.0.1",
+    "@polymer/paper-toolbar": "^3.0.1",
+    "@polymer/polymer": "^3.0.0-pre.12",
+    "@webcomponents/webcomponentsjs": "^1.0.20"
+  },
+  "resolutions": {
+    "@webcomponents/webcomponentsjs": "1.0.20"
+  }
+}
