@@ -1,7 +1,5 @@
 # Build your first Polymer element
 
-This repo goes with the [Build your first Polymer element tutorial](https://www.polymer-project.org/3.0/start/first-element/intro).
-
 ## Running the tutorial code
 
 1.  Install pre-requisites for Polymer CLI (git, npm, Node.js). 
@@ -16,7 +14,7 @@ This repo goes with the [Build your first Polymer element tutorial](https://www.
 
 3.  Clone this repo: 
 
-        git clone https://github.com/PolymerLabs/polymer-3-first-element.git
+        git clone https://github.com/arpandesai0/polymer-web-components.git
 
 4.  Change directory to the top-level project folder and install project dependencies:
 
@@ -27,6 +25,3 @@ This repo goes with the [Build your first Polymer element tutorial](https://www.
 
         polymer serve --open
 
-## Next steps
-
-Follow the [Build your first Polymer element tutorial](https://www.polymer-project.org/3.0/start/first-element/intro) to get started with Polymer.
